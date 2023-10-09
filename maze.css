@@ -1,5 +1,21 @@
 @charset "UTF-8";
 
+.hidden {
+
+    display: none !important;
+}
+
+.hidden-game {
+
+    opacity: 0;
+    display: none !important;
+}
+
+#end-game {
+
+    z-index: 1;
+}
+
 :root {
     --white: #e6e0e0;
     --floor: #D73A4D;

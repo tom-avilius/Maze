@@ -1,0 +1,15 @@
+.hidden {
+
+    display: none !important;
+}
+
+.hidden-game {
+
+    opacity: 0;
+    display: none !important;
+}
+
+#end-game {
+
+    z-index: 1;
+}
